@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LeansGeilerServer.aternos.me:3222",
+    "ip": "LeansGeilerServer.aternos.me",
     "port": 32228,
     "version": "",
     "try-creative": false
