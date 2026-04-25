@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OakheartSMP.aternos.me:32228",
+    "ip": "OakheartSMP.aternos.me:",
     "port": 32228,
     "version": "1.20.1",
     "try-creative": false
