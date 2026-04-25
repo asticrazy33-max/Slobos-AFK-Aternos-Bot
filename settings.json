@@ -23,8 +23,8 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
-      "sneak": false
+      "enabled": true,
+      "sneak": true
     },
     "chat-messages": {
       "enabled": false,
@@ -41,16 +41,16 @@
     "enabled": true,
     "circle-walk": {
       "enabled": false,
-      "radius": 4,
-      "speed": 3000
+      "radius": 3,
+      "speed": 4000
     },
     "look-around": {
       "enabled": true,
-      "interval": 20000
+      "interval": 8000
     },
     "random-jump": {
-      "enabled": false,
-      "interval": 10000
+      "enabled": true,
+      "interval": 15000
     }
   },
   "modules": {
