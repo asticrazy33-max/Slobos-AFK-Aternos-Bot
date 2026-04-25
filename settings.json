@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "spookfish.aternos.host:32228:",
+    "ip": "spookfish.aternos.host:32228",
     "port": 32228,
     "version": "1.20.1",
     "try-creative": false
